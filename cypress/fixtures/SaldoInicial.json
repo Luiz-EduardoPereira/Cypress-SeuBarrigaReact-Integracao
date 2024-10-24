@@ -1,0 +1,12 @@
+[
+    {
+        "conta_id": 1,
+        "conta": "Conta Corrente",
+        "saldo": 10000.00
+    },
+    {
+        "conta_id": 2,
+        "conta": "Carteira de Investimentos",
+        "saldo": 5000.00
+    }
+]
